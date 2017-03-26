@@ -1,3 +1,5 @@
+package com.slackers.inc.alrorithms;
+
 import java.io.*;
 import java.lang.reflect.Array;
 import java.lang.reflect.InvocationTargetException;

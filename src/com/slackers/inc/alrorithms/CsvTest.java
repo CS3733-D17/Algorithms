@@ -1,3 +1,5 @@
+package com.slackers.inc.alrorithms;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

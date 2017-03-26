@@ -1,3 +1,5 @@
+package com.slackers.inc.alrorithms;
+
 /**
  * Created by John's New HP on 3/25/2017.
  */
